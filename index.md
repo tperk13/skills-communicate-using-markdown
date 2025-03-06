@@ -9,3 +9,6 @@ Learning how to create headers for the markdown training course
 $Name = "Steve Rogers"
 npm install -g aws-cdk
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
